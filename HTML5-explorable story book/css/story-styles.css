@@ -1,0 +1,14 @@
+body {
+			color: #34495E;
+			margin: 0px;
+		}
+.story{
+		margin-top:20px;
+		margin-bottom:20px;
+		font: 24px/34px 'SFCartoonistHandItalic',Georgia, Arial;
+		color:#34495E;
+}
+.footnotes{
+		font: 18px/27px 'SFCartoonistHandRegular',Georgia, Arial;
+		color: #34495E;
+}
